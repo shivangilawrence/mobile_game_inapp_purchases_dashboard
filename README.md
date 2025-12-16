@@ -3,7 +3,10 @@ This project analyzes player behavior and spending patterns in a mobile gaming p
 
 Note:Dataset used for this project was imported from Kaggle.
 
+
 Dataset:-https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025
+
+
 
 Key points analyzed using the dashboards created:-
 
